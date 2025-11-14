@@ -5,6 +5,13 @@ This chat app includes authentication, typing indicators, online status, image s
 
  || [LOGIN PAGE ] ||
  ![Login](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuSXrCsUC7UqiJjLG6uOVPxUKaWici13s-_T0WLMzjTbyMt_V-MKBwqKM_tu5XYQvdJ-F6uzNCuXqKX3l9DcuAswoMhjSP9pNBsVzuqkYVTq8v2IsyLANgxhdEEtBJIqGmoXD2XOe6U3zy98S9bl_uXB931Ju1Yy-CNFz-Lgw9GCmD5A8dM7ZdOwHbkbrQ/s1887/Screenshot%202025-11-14%20153708.png)
+
+  || [Sign Up PAGE ] ||
+ ![SignUp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvRpvtHmkwttIidMvvE9v9yzk9OxfHi9b87QsW65MKXMUJbzwCyJ4usvyXVil5qPf4UwsSgUfVudyLKpsZmREqANtRHGW14kfLG6WAy6R6htiqt8cc0DqAj2RTQLLlv-SvU1W6K4ehAqsrjus8O_3_USY80b_FitGFUMoexmpAn7fiaMJllws7GipMtRKC/s1842/Screenshot%202025-11-14%20153719.png)
+
+
+  || [Home PAGE ] ||
+ ![Home](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_vJdlGKvgAZjgHH3x8hvx5NRstfTmNr426hfD-2IRPO7_wpuT8pDc1mcap0Vg9Y0wiYU9B6_GGqDM-cFgXXiLhVSkpgrVp0T-rVRSkOr3DWZF25wi0zcAYCBBq44eLqgcccDALqwY9kLa2zc19PqCW67f2HhwJ1OknYcRycofZWDcbRjWGf8izV3O3zcq/s1873/Screenshot%202025-11-14%20153655.png)
 🚀 Features
 🔐 User Authentication
 
