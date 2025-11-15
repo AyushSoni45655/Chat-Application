@@ -15,7 +15,7 @@ import axios from "axios";
 import { Socket } from "socket.io-client";
 const Chats = () => {
 const navigator = useNavigate()
-  const backend_Url = import.meta.env.VITE_BACKEND_URL || "https://chat-backend-3jzz.onrender.com";
+  const backend_Url = import.meta.env.VITE_BACKEND_URL;
  
   const [isTyping,setIsTyping] = useState(false);
   const [showEmoji, setShowEmoji] = useState(false);
