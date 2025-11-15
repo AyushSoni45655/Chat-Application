@@ -6,7 +6,7 @@ import image from "../../src/assets/imageplac.jpg"
 import SignIn from "../pages/Account/SignIn";
 export const ContextProvider = ({children})=>{
 //Backend url
-const backend_rul = import.meta.env.VITE_BACKEND_URL || "https://chat-backend-3jzz.onrender.com";
+const backend_rul = import.meta.env.VITE_BACKEND_URL;
 
   // here all the states variable
   const [token,setToken] = useState(localStorage.getItem('token') || "");
