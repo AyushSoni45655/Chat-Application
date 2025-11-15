@@ -1,4 +1,4 @@
-import { createContext, useState ,useRef, useEffect} from "react";
+ import { createContext, useState ,useRef, useEffect} from "react";
 import {toast} from 'react-hot-toast';
 export const Contextt = createContext();
 import axios from 'axios';
@@ -6,7 +6,7 @@ import image from "../../src/assets/imageplac.jpg"
 import SignIn from "../pages/Account/SignIn";
 export const ContextProvider = ({children})=>{
 //Backend url
-const backend_rul = import.meta.env.VITE_BACKEND_URL;
+const backend_rul = import.meta.env.VITE_BACKEND_URL || "https://chat-backend-3jzz.onrender.com";
 
   // here all the states variable
   const [token,setToken] = useState(localStorage.getItem('token') || "");
