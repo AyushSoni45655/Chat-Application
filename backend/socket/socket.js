@@ -5,7 +5,7 @@ import { Server } from 'socket.io';
 const server = http.createServer(app);
 export const io = new Server(server,{
   cors:{
-    origin:process.env.FRONTEND_URL || "https://chat-application-frontend-aoli.onrender.com/signin"
+    origin:process.env.FRONTEND_URL
   }
 });
 export const userSocketMap = {}
