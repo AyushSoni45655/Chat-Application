@@ -75,7 +75,7 @@ console.log("I am a a socket id ",socketId);
 
 useEffect(()=>{
   if(user){
-  const socketio = io(import.meta.env.VITE_BACKEND_URL || "https://chat-backend-3jzz.onrender.com",{
+  const socketio = io(import.meta.env.VITE_BACKEND_URL,{
     query:{
       userId:user?.id,
       receiverId:receiverId
