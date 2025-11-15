@@ -179,7 +179,7 @@ const sendMessages = async () => {
       </div>
 
       {/* Chat Body */}
-      <div className="flex-1 overflow-y-auto px-3 sm:px-6 py-3 bg-gradient-to-b from-gray-50 to-gray-200 relative">
+      <div className="flex-1 overflow-y-auto px-3 sm:px-6 py-3 bg-linear-to-b from-gray-50 to-gray-200 relative">
         <div className="flex flex-col gap-3 max-w-[90%] mx-auto pb-24">
     
           
