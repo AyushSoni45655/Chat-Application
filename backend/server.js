@@ -11,8 +11,7 @@ dotenv.config();
 
 // cors connection here implement
 const allowedOrigin = [
-  process.env.FRONTEND_URL,
-  "https://chat-application-frontend-aoli.onrender.com/signin"
+  process.env.FRONTEND_URL
 ]
 app.use(cors({
   origin:(origin,callback)=>{
